@@ -1,0 +1,92 @@
+[
+    {
+        "id" : "1",
+        "name" : "Javascript: All You Need to Know",
+        "price" : "3000",
+        "image" : "https://import.cdn.thinkific.com/176279/Vjgxx2AQWxlw7G145t7w_Array%20web%20thumb.png",
+        "category_id" : 1,
+        "description" : "কোর্সটি এমন ভাবে সাজানো হয়েছে যেন প্রোগ্রামিং এর বিগিনার থেকে এক্সপার্ট সবাই এখান থেকে উপকৃত হতে পারে। প্রথম কয়েকটা অধ্যায়ে প্রোগ্রামিং এর ফান্ডামেন্টালস নিয়ে আলোচনা করা হয়েছে। এর পরে জাভাস্ক্রিপ্টের গুরুত্বপূর্ণ তিনটি বিষয় অ্যারে, অবজেক্ট এবং ফাংশন নিয়ে আলোচনা করা হয়েছে। তারপরে ধীরে অ্যাডভান্সড কনসেপ্ট গুলো যেমন ফাংশনাল প্রোগ্রামিং, অবজেক্ট অরিয়েন্টেড প্রোগ্রামিং, স্কোপ, ক্লোজার, প্রোটোটাইপ, অ্যাসিংক্রোনাস প্রোগ্রামিং, ডম ম্যানিপুলেশন এর মত বিষয় গুলো নিয়ে আলোচনা করা হয়েছে। এর সাথে সাথে জাভাস্ক্রিপ্টের বহুবিধ ব্যবহার নিয়েও আলোচনা করার সাথে প্রাক্টিক্যাল করে দেখানো হয়েছে।",
+        "courses_duration" : "3 Months",
+        "courses_Start_date" : "30 November 2022"
+    },
+    {
+        "id" : "2",
+        "name" : "Understand ReactJs Advanced",
+        "price" : "5000",
+        "image" : "https://import.cdn.thinkific.com/176279/yMk9xagQIq8RBvXIXhOG_Understand%20ReactJS-01.png",
+        "category_id" : "1",
+        "description" : "React একটি UI লাইব্রেরী যা ব্যবহার করা হয় ইন্টারেক্টিভ ইউজার ইন্টারফেস তৈরি করার কাজে। React ব্যবহার করে ফ্রন্টেন্ড ডেভেলপমেন্ট করার জন্য আপনার দরকার হবে আরও অসংখ্য টুলস। বেশির ভাগ টিউটোরিয়াল গুলোতেই সম্পূর্ণ ফ্রন্টেন্ড ডেভেলপমেন্ট শেখাতে গিয়ে React এর ফান্ডামেন্টাল কনসেপ্ট এর ওপরে গুরুত্ব দেওয়া হয় না। যার ফলে পরবর্তীতে সমস্যার সম্মুখীন হতে হয়। এই Chunk টিতে আমরা শুধু মাত্র React এর ফান্ডামেন্টাল বিষয়ের ওপরেই জোর দিয়েছি। যেন React সম্পর্কে আপনার একটা সুন্দর ধারণা তৈরি হয় এবং আপনি React এর মতো করে চিন্তা করতে পারেন।",
+        "courses_duration" : "5 Months",
+        "courses_Start_date" : " 1 January 2023"
+    },
+    {
+        "id" : "3",
+        "name" : "ExpressJS ",
+        "price" : "5000",
+        "image" : "https://import.cdn.thinkific.com/176279/GS7C4jAdT1WbnGer1GeG_EXPRESS%20JS.png",
+        "category_id" : "1",
+        "description" : "এই ক্রাশ কোর্সটা এক্সপ্রেসের ওপরে করা ছোট্ট একটি কোর্স যা সম্পূর্ণ ফ্রি আপনি দেখতে পারবেন এবং শিখতে পারবেন। নোডজেএস ব্যবহার করে ওয়েব ডেভেলপমেন্ট শুরু করার প্রথম পদক্ষেপ হতে পারে এই কোর্সটি যেখানে এক্সপ্রেসজেএস ব্যবহার করে কিভাবে ওয়েব ডেভেলপমেন্ট করা হয় একটা ছোট্ট প্রোজেক্টের মাধ্যমে দেখানো হয়েছে।",
+        "courses_duration" : "6 Months",
+        "courses_Start_date" : "Sun, 30 November"
+    },
+    {
+        "id" : "4",
+        "name" : "Learn graphics design in 10 days",
+        "price" : "300",
+        "image" : "https://visme.co/blog/wp-content/uploads/2021/10/what-is-graphic-design-header-1200.png",
+        "category_id" : "2",
+        "description" : "Drawing এবং Design করার জন্যে এই Program – টি বিশ্বব্যাপী অনেক বেশী জনপ্রিয়। বিশেষ করে Print Design এখানে খুব সহজে করা যায়। যেমন – Logo Design, Brand Identity Design, Stationary Design, Flyer/Leaflet Design, Poster Design, Banner Design, Billboard ইত্যাদি সকল ধরনের Designing – এর কাজগুলো এখানে খুব সহজে করা যায়।",
+        "courses_duration" : "10 day",
+        "courses_Start_date" : " 20 November 2022"
+    },
+    {
+        "id" : "5",
+        "name" : "Adobe Illustrator Essentials",
+        "price" : "2000",
+        "image" : "https://assets.proalley.com/images/courses/61ea5c4c8239f6558333bc1a/lLsBeets3xKh1PFIqEtSGPj4ZINSQQbZrxRtBBMZ.jpg?w=828&q=75",
+        "category_id" : "2",
+        "description" : "All companies in the IT, advertising, marketing, and print media sectors need graphic designers with advanced skills. The current demand for vector-driven adobe illustrator graphic designing is high due to heavy reliance on constant visual content creation for marketing material such as PPTs, webpages, emailers, etc. Adobe Illustrator course is the need of the hour for graphic designers planning to upskill their expertise in vector-based designing.",
+        "courses_duration" : "3 Months",
+        "courses_Start_date" : " 5 February 2023"
+    },
+    {
+        "id" : "6",
+        "name" : "CorelDRAW Essentials",
+        "price" : "800",
+        "image" : "https://assets.proalley.com/images/courses/6140300cedce063faf273bef/Up7VMy1j8mV9eTI6XqsETJ7XkQN35XOAqQCZ7yri.jpg?w=828&q=75",
+        "category_id" : "2",
+        "description" : "Whether you are a beginner or a creative genius looking to sharpen your skills, ProAlley's CorelDRAW essentials course offers the perfect learning experience to upskill and tap into your creative potential. This course is the best way to learn CorelDRAW online to create visually appealing vector-based design icons, web ads, and more. Our CorelDRAW course will offer the desired level of proficiency and help you apply your skills in your career journey as a graphic designer.",
+        "courses_duration" : "3 Months",
+        "courses_Start_date" : "5 November 2022"
+    },
+    {
+        "id" : "7",
+        "name" : "Android Apps Devolopment",
+        "price" : "50,000",
+        "image" : "https://www.creativeitinstitute.com/images/course/course_1663052092.jpg",
+        "category_id" : "3",
+        "description" : "অ্যাপ ডেভেলপমেন্ট হল মোবাইল ডিভাইসে ব্যবহার করার জন্য অ্যাপ্লিকেশন তৈরির প্রক্রিয়া। নতুন যুগে চাহিদা সম্পন্ন যে সকল ক্যারিয়ার আছে তার মধ্যে তালিকার শীর্ষে রয়েছে অ্যান্ড্রোয়েড অ্যাপ ডেভলপমেন্ট। এজন্যই আমাদের কোর্স এমনভাবে সাজানো হয়েছে, যাতে একেবারে গোড়া থেকে আপনি আমাদের সাথে অ্যাপ ডেভলপমেন্ট শিখতে পারেন। এখানে আপনি প্রাথমিক ল্যাংগুয়েজ থেকে প্যাকেজ সহ কম্পোনেন্ট সম্পর্কে ভালো ধারণা পাবেন। তাছাড়াও প্রজেক্ট ভিত্তিক অ্যান্ড্রোয়েড অ্যাপ ডেভলপমেন্ট কোর্সটি শেষ করার আগেই শিক্ষার্থীদের একটি ভালো পোর্টফোলিও তৈরি হয়ে যাবে। তাই আপনি দ্রুত ক্যারিয়ারের ভালো শুরু করতে পারবেন। তাই আপনার যদি ইউনিক অ্যাপের আইডিয়া থাকে, তাহলে এই কোর্স করে সহজে একটি ভালো অ্যান্ড্রোয়েড অ্যাপ তৈরি করতে পারবেন।  ",
+        "courses_duration" : "6 Months",
+        "courses_Start_date" : " 12 November 20222"
+    },
+    {
+        "id" : "8",
+        "name" : "Python Jango Devolopment",
+        "price" : "40,000",
+        "image" : "https://www.creativeitinstitute.com/images/course/course_1662801340.jpg",
+        "category_id" : "3",
+        "description" : "বর্তমানে যে কোনো জটিল ওয়েব অ্যাপ্লিকেশন তৈরিতে পাইথন জ্যাঙ্গো বেছে নিচ্ছেন প্রায় ৭৬% ডেভলপার। সহজে ব্যবহার উপযোগী প্রচুর লাইব্রেরি থাকায় সব সমস্যারই সমাধান পাওয়া যায় দ্রুত। আর এজন্যই আমাদের কোর্সে পাইথনের ব্যাসিক লজিক থেকে শুরু করে প্রোটোটাইপ তৈরি যেমন শেখানো হয়, তেমনি জ্যাঙ্গোএর লাইব্রেরি ব্যবহার করাও শেখানো হয়। সেই সাথে এডমিন প্যানেলের কাজ সম্পর্কেও বিস্তারিত শিখতে পারবেন। বিডি জবস বা লিংকড ইনে প্রতিদিন দেশ বা দেশের বাইরে থেকে পাইথন ডেভলপমেন্ট সংক্রান্ত অসংখ্য কাজ আসে। প্রতিযোগিতার এই যুগে সার্টিফাইড এই কোর্স আপনাকে এগিয়ে রাখবে ক্যারিয়ারের দৌড়ে। তাই আপনি যদি ওয়েব ডেভলপমেন্ট, ইউনিট টেস্টিং এবং ফর্ম প্রসেসিং এর বিস্তারিত সবকিছু শিখতে চান তাহলে আমাদের পাইথন জ্যাঙ্গো কোর্সে এ আপনি আমন্ত্রিত।  ",
+        "courses_duration" : "5 Months",
+        "courses_Start_date" : "22 Junary 2022"
+    },
+    {
+        "id" : "9",
+        "name" : "Python Machine Learning",
+        "price" : "80,000",
+        "image" : "https://www.creativeitinstitute.com/images/course/course_1662804460.jpg",
+        "category_id" : "3",
+        "description" : "কিভাবে মেশিনকে কোন একটা কাজ করার জন্য ট্রেইন করা যায় সেটাই মেশিন লার্নিং এর মূল ধারণা। তাই আমাদের কোর্সে আপনি শিখবেন কিভাবে কোন এলগরিদম আর লাইব্রেরি ব্যবহার করবেন। তাছাড়া পাইথনের বেসিক থেকে লজিক ডেভেলাপমেন্ট পর্যন্ত সবই জানবেন এখান থেকে। বর্তমান যুগে প্রয়োজনীয় তথ্যপ্রযুক্তি দক্ষতার মধ্যে ওপরের দিকে রয়েছে মেশিন লার্নিং বিষয়ক দক্ষতা। অদূর ভবিষ্যতে মেশিন লার্নিং এর ক্যারিয়ারে বেশ সম্ভাবনা রয়েছে। বর্তমানে বড় বড় প্রযুক্তি প্রতিষ্ঠানের পাশাপাশি সাধারণ প্রতিষ্ঠানেও মেশিন লার্নিং প্রকৌশলীদের চাহিদা বাড়ছে। প্রতিষ্ঠানের বিভিন্ন তথ্য কাজে লাগিয়ে তা থেকে প্রয়োজনীয় সুবিধা পেতে উৎসাহ দেখাচ্ছে বিভিন্ন প্রতিষ্ঠান। তাই আপনি যদি মেশিন লার্নিং -এ কাজ করতে চান, তাহলে মেশিন লার্নিং কোর্স হতে পারে আপনার সেরা ক্যারিয়ার চয়েজ। ",
+        "courses_duration" : "5 Months",
+        "courses_Start_date" : "22 Junary 2022"
+    }
+]
