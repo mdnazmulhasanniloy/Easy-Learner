@@ -8,13 +8,13 @@ const Courses = () => {
     return (
         <div>
 
-                <h1 className='text-center my-5'>Total Courses: {AllCourses?.length} </h1>
-                <Row xs={1} md={3} className="g-4">
+                <h1 className='text-center my-5'>Total Courses: {AllCourses?.length}</h1>
+                <div className="row">
                 { 
                     AllCourses?.map( course => <CourseSummeryCard key={course?.id} course={course}></CourseSummeryCard>) 
                 
                 }
-                </Row>
+                </div>
         </div>
     );
 };
