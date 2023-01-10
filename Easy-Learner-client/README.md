@@ -1,4 +1,4 @@
 Project Name : Easy Learner
 
-project live link : 
+project live link : https://easy-learner-77083.web.app/
 
